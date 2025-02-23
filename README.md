@@ -51,5 +51,6 @@ The results confirm that deep learning models, when properly optimized, outperfo
 4. Train models and evaluate performance.
 
 ---
+## Video Link: https://youtu.be/uI-ljAZ92iw
 ### Author
 Developed by **Festus Bigirimana**, Machine Learning Student at **African Leadership University** 🚀.
