@@ -25,6 +25,8 @@ The dataset contains demographic, academic, and financial information on student
 - **Traditional ML Algorithms:** **Random Forest** achieved **77.71% accuracy**, showing strong performance but still falling short compared to the optimized neural networks. Its strengths lie in simplicity and interpretability.
 - **Impact of Regularization and Early Stopping:** Models with **L1 & L2 regularization** and **early stopping** showed better generalization, reducing overfitting and boosting performance on unseen data.
 
+MAIN key take away: the performance of a model isn't about the best algorithm, instead it's about how your model is fine-tuned, with proper parameters. 
+
 ---
 
 ## Conclusion
@@ -51,5 +53,6 @@ The results confirm that deep learning models, when properly optimized, outperfo
 4. Train models and evaluate performance.
 
 ---
+## Video Link: https://youtu.be/uI-ljAZ92iw
 ### Author
 Developed by **Festus Bigirimana**, Machine Learning Student at **African Leadership University** 🚀.
