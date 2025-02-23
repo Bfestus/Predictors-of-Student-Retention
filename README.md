@@ -37,7 +37,7 @@ The results confirm that deep learning models, when properly optimized, outperfo
 
 1. Clone the repository:
    ```sh
-   git clone <repo_url>
+   git clone https://github.com/Bfestus/Predictors-of-Student-Retention.git
    cd student-retention-prediction
    ```
 2. Install dependencies:
